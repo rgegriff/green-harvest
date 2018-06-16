@@ -17,30 +17,30 @@ parsers.py intends to provide a similar unified interface for extracting data fr
 
 States that need scrapers
 
-[] Alaska (Documents Found)
-[] Arizona
-[x] California
-[x] Colorado
-[] Connecticut
-[] Delaware
-[] Florida
-[] Hawaii
-[] Illinois
-[] Maine
-[] Maryland
-[] Massachusetts
-[] Minnesota
-[] Nevada
-[] New Hampshire
-[] New Jersey
-[] New Mexico
-[] New York	(Documents Found)
-[x] Oregon
-[] Pennsylvania
-[] Rhode Island
-[] Vermont
-[x] Washington	(Documents Found)
-[] Washington, D.C.
+- [ ] Alaska (Documents Found)
+- [ ] Arizona
+- [x] California
+- [x] Colorado
+- [ ] Connecticut
+- [ ] Delaware
+- [ ] Florida
+- [ ] Hawaii
+- [ ] Illinois
+- [ ] Maine
+- [ ] Maryland
+- [ ] Massachusetts
+- [ ] Minnesota
+- [ ] Nevada
+- [ ] New Hampshire
+- [ ] New Jersey
+- [ ] New Mexico
+- [ ] New York	(Documents Found)
+- [x] Oregon
+- [ ] Pennsylvania
+- [ ] Rhode Island
+- [ ] Vermont
+- [x] Washington	(Documents Found)
+- [ ] Washington, D.C.
 
 States that need parsers
 
