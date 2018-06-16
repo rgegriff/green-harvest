@@ -82,7 +82,7 @@ class ColoradoDocumentParser:
 
     def get_headers(self):
         '''
-        returns an array with the headers
+        returns an array with the header names
         '''
         headers = list(map(lambda c: c.strip(), self.document[self.data[3]]))
         if headers != self.data[-1]:

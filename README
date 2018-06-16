@@ -13,7 +13,7 @@ scrapers.py provides a generic scraping class that handles about 90% of the logi
 parsers.py intends to provide a similar unified interface for extracting data from the files downloaded. Only Colorado is currently implemented.
 
 
-## todo
+## TODO
 
 States that need scrapers
 
